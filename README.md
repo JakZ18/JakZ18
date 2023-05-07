@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @JakZ18
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning AI and Python
+- 👋 Hi, I’m @JakZ
 - 📫 How to reach me: Just DM on Github
 
 <!---
